@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Ejemplo de componentes para curso de vue.js de Udemy. 
 
-[Preview page](https://code.visualstudio.com/)
+[Preview page](https://vue-components-course.netlify.app)
 
 ## Customize configuration
 
